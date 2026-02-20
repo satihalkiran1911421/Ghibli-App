@@ -1,4 +1,4 @@
-#Ghibli App
+Ghibli App
 
 This is my first iOS application built using SwiftUI.
 
